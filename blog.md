@@ -5,7 +5,7 @@
 ---
 
 ## Menu
-[Home](readme.md)  |  [Projects](projects.md)  |  [Teaching](teaching.md)  |  [Blog](blog.md)
+[Home](README.md)  |  [Projects](projects.md)  |  [Teaching](teaching.md)  |  [Publications](publications.md)  |  [Blog](blog.md)
 
 ---
 
