@@ -3,7 +3,7 @@
 ---
 
 ## Menu
-<center>[Home](readme.md) | [About Me](about.md) | [Projects](projects.md) | [Blog](blog.md) | [Contact](contact.md)</center>center>
+<center>[Home](readme.md) | [About Me](about.md) | [Projects](projects.md) | [Blog](blog.md) | [Contact](contact.md)</center>
 
 ---
 
