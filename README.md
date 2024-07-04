@@ -1,10 +1,10 @@
 # Welcome to My Webpage
 
 ## Table of Contents
-1. [About Me](about.md)
-2. [Projects](projects.md)
-3. [Blog](blog.md)
-4. [Contact](contact.md)
+- [About Me](about.md)
+- [Projects](projects.md)
+- [Blog](blog.md)
+- Contact](contact.md)
 
 ---
 
