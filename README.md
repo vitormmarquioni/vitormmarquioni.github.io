@@ -1,10 +1,11 @@
 # Welcome to My Webpage
 
-## Table of Contents
-- [About Me](about.md)
-- [Projects](projects.md)
-- [Blog](blog.md)
-- Contact](contact.md)
+---
+
+## Menu
+[Home](readme.md) | [About Me](about.md) | [Projects](projects.md) | [Blog](blog.md) | [Contact](contact.md)
+
+---
 
 ---
 
