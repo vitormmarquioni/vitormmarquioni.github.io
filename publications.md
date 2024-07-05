@@ -1,4 +1,7 @@
-# Dr. Vitor M. Marquioni
+![](image1.jpg)
+*A winter sunset in Trieste, 2023*
+
+# Vitor M. Marquioni
 
 *(Under construction)*
 
