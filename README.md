@@ -1,3 +1,5 @@
+![](images/image1.jpg)
+
 # Dr. Vitor M. Marquioni
 
 *(Under construction)*
