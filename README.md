@@ -26,7 +26,7 @@ Nowadays I spend my days on trying to undestand what are the effects of eating (
 
 ## Projects
 
-I have worked in different scientific projects and you can check them here. (Under construction)
+I have worked on different scientific projects and you can check them here. (Under construction)
 [View all projects...](projects.md)
 
 ---
