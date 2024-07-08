@@ -9,14 +9,14 @@
 
 <table style="border-collapse: collapse; width: 100%;">
 <tr style="border: none;">
-<td style="border: none; padding: 0; vertical-align: top; width: 300px;">
-<img src="profile2.jpg" alt="Profile Picture" style="width: 300px; height: auto; border: none;">
+<td style="border: none; padding: 0; vertical-align: top; width: 275px;">
+<img src="profile2.jpg" alt="Profile Picture" style="width: 275px; height: auto; border: none;">
 </td>
-<td style="border: none; padding: 0; vertical-align: top;">
+<td style="border: none; padding: 0; vertical-align: center;">
 
   ## About Me
-  
-  I am a physicist by training, with background in statistical mechanics, dynamical systems and stochastic processes. I am currently a Centuri postdoc in Dr. Florence Bansept’s lab, in the Laboratoire de Chimie     Bacterienne (LCB), Marseille, France. In my research, I apply mathematical modelling techniques to understand biological phenomena.
+  ---
+  I am a physicist by training, with background in statistical mechanics, dynamical systems and stochastic processes. I am currently a Centuri postdoc in Dr.       Florence Bansept’s lab, in the Laboratoire de Chimie     Bacterienne (LCB), Marseille, France. In my research, I apply mathematical modelling techniques to understand biological phenomena.
 
 </td>
 </tr>
