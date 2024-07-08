@@ -9,7 +9,7 @@
 
 <table style="border-collapse: collapse; width: 100%;">
 <tr style="border: none;">
-<td style="border: none; padding: 0; vertical-align: top; width: 100%; background-color: #f0f0f0">
+<td style="border: none; padding: 0; vertical-align: top; width: 300px;">
 <img src="profile2.jpg" alt="Profile Picture" style="width: 300px; height: auto; border: none;">
 </td>
 <td style="border: none; padding: 0; vertical-align: top;">
