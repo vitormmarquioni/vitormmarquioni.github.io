@@ -21,7 +21,7 @@ I am a physicist by training, with background in statistical mechanics, dynamica
 <ul>
   <li>My Erdos number is 5.</li>
   <li>You can reach me out by email, <i>vitor.MARQUIONI-MONTEIRO@univ-amu.fr</i>.</li>
-  <li>My <a href="[url](https://scholar.google.com/citations?user=FyyhlpYAAAAJ&hl=pt-BR)">Google Scholar </a>.</li>
+  <li>My <a href="https://scholar.google.com/citations?user=FyyhlpYAAAAJ&hl=pt-BR">Google Scholar </a>.</li>
 </ul>
 
 </td>
