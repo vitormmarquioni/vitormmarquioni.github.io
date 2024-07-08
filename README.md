@@ -18,12 +18,11 @@
 
 I am a physicist by training, with background in statistical mechanics, dynamical systems and stochastic processes. I am currently a Centuri postdoc in Dr.       Florence Bansept’s lab, in the Laboratoire de Chimie     Bacterienne (LCB), Marseille, France. In my research, I apply mathematical modelling techniques to understand biological phenomena.<br />
 
-My Erdos number is 5.<br />
-
-You can reach me out my email, *vitor.MARQUIONI-MONTEIRO@univ-amu.fr*.<br />
-
-Check my Google Scholar <a href="[url](https://scholar.google.com/citations?user=FyyhlpYAAAAJ&hl=pt-BR)">here</a>[here].
-
+<ul>
+  <li>My Erdos number is 5.</li>
+  <li>You can reach me out by email, <i>vitor.MARQUIONI-MONTEIRO@univ-amu.fr</i>.</li>
+  <li>My <a href="[url](https://scholar.google.com/citations?user=FyyhlpYAAAAJ&hl=pt-BR)">Google Scholar </a>.</li>
+</ul>
 
 </td>
 </tr>
