@@ -44,7 +44,17 @@ I have worked on different scientific projects and you can check them here. (Und
 
 ---
 
-## Blog
+## Are you bored?
+
+You can try this funny nerd game: [The wikigame](https://www.thewikigame.com/).
+
+Or check out some interesting spurious correlations [here](https://www.tylervigen.com/spurious-correlations).
+
+
+---
+
+
+<!--
 ### Blog Post Title 1
 *Date:* YYYY-MM-DD
 
@@ -52,7 +62,6 @@ Brief excerpt of the blog post. [Read more...](blog.md)
 
 ---
 
-<!--
 ## Footer
 
 &copy; YYYY [Your Name]. All rights reserved.
