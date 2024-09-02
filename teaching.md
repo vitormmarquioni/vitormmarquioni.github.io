@@ -17,5 +17,5 @@
 
 CENTURI Master of Computational and Mathematical Biology
 
-[Lecture Notes]
+[Lecture Notes](Linear_Algebra.pdf)
 
