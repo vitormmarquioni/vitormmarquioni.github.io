@@ -19,3 +19,4 @@ CENTURI Master of Computational and Mathematical Biology
 
 [Lecture Notes](Linear_Algebra.pdf)
 
+[PhET Interactive Simulation - Vector Addition](https://phet.colorado.edu/en/simulations/vector-addition/teaching-resources)
