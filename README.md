@@ -50,7 +50,7 @@ You can try this funny nerd game: [The wikigame](https://www.thewikigame.com/).
 
 Or check out some interesting spurious correlations [here](https://www.tylervigen.com/spurious-correlations).
 
-This website is full of funny mathematics: [https://www.cut-the-knot.org/](https://www.cut-the-knot.org/)
+This website is full of funny mathematics, [https://www.cut-the-knot.org/](https://www.cut-the-knot.org/), like [more than a hundred different proofs for the Pythagoras' theorem](https://www.cut-the-knot.org/pythagoras/index.shtml).
 
 ---
 
