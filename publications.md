@@ -14,7 +14,8 @@
 - [Marquioni, V. M., & De Aguiar, M. A. (2020). Quantifying the effects of quarantine using an IBM SEIR model on scalefree networks. Chaos, Solitons & Fractals, 138, 109999.](https://doi.org/10.1016/j.chaos.2020.109999)
 - [Marquioni, V. M. (2019). Multidimensional elephant random walk with coupled memory. Physical Review E, 100(5), 052131.](https://doi.org/10.1103/PhysRevE.100.052131)
 
-### Preprint
+### Preprints
+- [Marquioni, V. M., Hofacker, A.,Villavicencio, J. V.,  and Bansept, F. (2025). Optimizing microbial intake helps to maintain the gut microbiome diversity.](https://doi.org/10.1101/2025.03.05.641598)
 - [Marquioni, V. M., & de Aguiar, M. A. (2024). The transition to speciation in the finite genome Derrida-Higgs model: a heuristic solution. arxiv.org/abs/2412.06565.](https://arxiv.org/abs/2412.06565)
 
 ### PhD Thesis (in English)
