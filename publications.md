@@ -10,13 +10,13 @@
 ## Publications
 
 ### Papers
+- [Marquioni, V. M., & de Aguiar, M. A. (2024). The transition to speciation in the finite genome Derrida-Higgs model: a heuristic solution. arxiv.org/abs/2412.06565.](https://iopscience.iop.org/article/10.1088/1751-8121/adcd33)
 - [Marquioni, V. M., & de Aguiar, M. A. (2021). Modeling neutral viral mutations in the spread of SARS-CoV-2 epidemics. PLoS One, 16(7), e0255438.](https://doi.org/10.1371/journal.pone.0255438)
 - [Marquioni, V. M., & De Aguiar, M. A. (2020). Quantifying the effects of quarantine using an IBM SEIR model on scalefree networks. Chaos, Solitons & Fractals, 138, 109999.](https://doi.org/10.1016/j.chaos.2020.109999)
 - [Marquioni, V. M. (2019). Multidimensional elephant random walk with coupled memory. Physical Review E, 100(5), 052131.](https://doi.org/10.1103/PhysRevE.100.052131)
 
 ### Preprints
 - [Marquioni, V. M., Hofacker, A., Villavicencio, J. V.,  and Bansept, F. (2025). Optimizing microbial intake helps to maintain the gut microbiome diversity.](https://doi.org/10.1101/2025.03.05.641598)
-- [Marquioni, V. M., & de Aguiar, M. A. (2024). The transition to speciation in the finite genome Derrida-Higgs model: a heuristic solution. arxiv.org/abs/2412.06565.](https://arxiv.org/abs/2412.06565)
 
 ### PhD Thesis (in English)
 - [MONTEIRO, Vítor Marquioni. Applications of the finite Derrida-Higgs model to population dynamics: Aplicações do modelo de Derrida-Higgs finito em dinâmica de populações. 2024. 1 recurso online (210 p.) Tese (doutorado) - Universidade Estadual de Campinas, Instituto de Física Gleb Wataghin, Campinas, SP.](https://hdl.handle.net/20.500.12733/17702)
