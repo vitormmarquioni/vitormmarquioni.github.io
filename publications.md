@@ -10,7 +10,7 @@
 ## Publications
 
 ### Papers
-- [Marquioni, V. M., & de Aguiar, M. A. (2024). The transition to speciation in the finite genome Derrida-Higgs model: a heuristic solution. J. Phys. A: Math. Theor.](https://iopscience.iop.org/article/10.1088/1751-8121/adcd33)
+- [Marquioni, V. M., & de Aguiar, M. A. (2025). The transition to speciation in the finite genome Derrida-Higgs model: a heuristic solution. J. Phys. A: Math. Theor.](https://iopscience.iop.org/article/10.1088/1751-8121/adcd33)
 - [Marquioni, V. M., & de Aguiar, M. A. (2021). Modeling neutral viral mutations in the spread of SARS-CoV-2 epidemics. PLoS One, 16(7), e0255438.](https://doi.org/10.1371/journal.pone.0255438)
 - [Marquioni, V. M., & De Aguiar, M. A. (2020). Quantifying the effects of quarantine using an IBM SEIR model on scalefree networks. Chaos, Solitons & Fractals, 138, 109999.](https://doi.org/10.1016/j.chaos.2020.109999)
 - [Marquioni, V. M. (2019). Multidimensional elephant random walk with coupled memory. Physical Review E, 100(5), 052131.](https://doi.org/10.1103/PhysRevE.100.052131)
