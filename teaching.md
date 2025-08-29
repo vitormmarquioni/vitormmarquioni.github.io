@@ -14,6 +14,7 @@
 *6 hours course on Introduction to Linear Algebra to biologists*
 
 *September,2024 - Marseille, France*
+
 *September,2025 - Marseille, France*
 
 CENTURI Master of Computational and Mathematical Biology
