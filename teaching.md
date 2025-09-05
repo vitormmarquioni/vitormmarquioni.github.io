@@ -25,3 +25,5 @@ CENTURI Master of Computational and Mathematical Biology
 [Prof. Gilbert Strang's Website](https://math.mit.edu/~gs/) : This is a great source of information on Linear Algebra.
 
 [3Blue1Brown series on Linear Algebra](https://youtu.be/fNk_zzaMoSs?si=FlieNu9Bx7g7LOee) : These are very good youtube videos on Linear Algebra.
+
+An application of linear algebra: [J. D. Orth et al. "What is flux balance analysis?." Nature biotechnology 28.3 (2010): 245-248.](https://www.nature.com/articles/nbt.1614)
