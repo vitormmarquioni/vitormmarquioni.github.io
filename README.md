@@ -16,7 +16,7 @@
 
 <h2> About Me </h2>
 
-I am a physicist by training, with a Ph.D. in theoretical physics by University of Campinas (UNICAMP, Brazil). My background is in statistical mechanics, dynamical systems and stochastic processes. I am currently a Centuri postdoc in Dr. Florence Bansept’s lab (the <a href="https://m-3-group.github.io/">Mathematical Modeling of Microbiomes Group</a></li>), in the Laboratoire de Chimie Bacterienne (LCB), Marseille, France. In my research, I apply mathematical modelling techniques to understand biological phenomena.<br /><br />
+I am a physicist by training, with a Ph.D. in theoretical physics by University of Campinas (UNICAMP, Brazil). My background is in statistical mechanics, dynamical systems and stochastic processes. I am currently a Centuri postdoc in Dr. Florence Bansept’s lab (the <a href="https://m-3-group.github.io/">Mathematical Modeling of Microbiomes Group</a>), in the Laboratoire de Chimie Bacterienne (LCB), Marseille, France. In my research, I apply mathematical modelling techniques to understand biological phenomena.<br /><br />
 
 <ul>
   <li>My Erdos number is 5.</li>
