@@ -16,7 +16,7 @@
 
 <h2> About Me </h2>
 
-I am a physicist by training, with a Ph.D. in theoretical physics by University of Campinas (UNICAMP, Brazil). My background is in statistical mechanics, dynamical systems and stochastic processes. I am currently a Centuri postdoc in Dr. Florence Bansept’s lab (the <a href="https://m-3-group.github.io/">Mathematical Modeling of Microbiomes Group</a>), in the Laboratoire de Chimie Bacterienne (LCB), Marseille, France. In my research, I apply mathematical modelling techniques to understand biological phenomena.<br /><br />
+I am a physicist by training, with a PhD in theoretical physics from the University of Campinas (UNICAMP, Brazil). My background is in statistical mechanics, dynamical systems, and stochastic processes. I am currently a CENTURI postdoctoral fellow in Dr. Florence Bansept’s lab (the <a href="https://m-3-group.github.io/">Mathematical Modeling of Microbiomes Group</a>), at the Laboratoire de Chimie Bactérienne (LCB), Marseille, France. In my research, I apply mathematical modeling techniques to understand biological phenomena, particularly those related to ecology and evolution.<br /><br />
 
 <ul>
   <li>My Erdos number is 5.</li>
@@ -31,7 +31,7 @@ I am a physicist by training, with a Ph.D. in theoretical physics by University 
 ---
 
 ### A gut full of life
-Nowadays I spend my days on trying to undestand what are the effects of eating (microbes) on the microbes that inhabit our guts. A myriad of bacteria lives within our body. In our intestine, for instance, they perform different functions; their roles go beyond the metabolization of different compounds, having shown a high impact on our health. Whenever we eat, we ingest microbes that are going to fight for their survival with the other resident microbes in our guts, and this interaction may alter the previous existing diversity. Moreover, eating is not a constant action. If you are Hobbit, for instance, you may have a breakfast, a second breakfast, elevenses, luncheon, afternoon tea, dinner and supper. Eating is often intermittent, and this feature may also pose important consequences to the gut microbial diversity. And such consequences is what we investigate here in the lab (with the aid of mathematical models).
+In recent years, I have been mostly interested in microbial communities. Wherever we zoom in, we are going to find a multitude of microbes. They thrive while processing nutrients from their surroundings, leaving behind chemical compounds that can be used by other microbes or even by the environment itself. Within the gut, this picture is very clear, with microbes involved in different metabolic pathways, producing metabolites that are later assimilated by their host. It is therefore not surprising that the "gut microbiome" has many correlations with the host's health. Learning how to manipulate and control this community in order to improve health is one of the main goals of gut microbiome research - _and I do that mathematically!_
 
 ![](imageRat2.jpg)
 
